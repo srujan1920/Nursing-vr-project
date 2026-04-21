@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5d358a52282494bd481d82d9a61657a8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19716
+  packageName: Measuring tools
+  packageVersion: 1.0
+  assetPath: Assets/Measuring Tools/Prefabs/ruler.prefab
+  uploadId: 8814

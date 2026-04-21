@@ -1,0 +1,57 @@
+using UnityEngine;
+
+
+public class FoleySnapOnRelease : MonoBehaviour
+{
+    public Transform snapPoint;
+    private bool canSnap = false;
+    private bool isPlaced = false;
+    private GameObject currentFoley;
+
+    private void OnTriggerEnter(Collider other)
+    {
+        if (isPlaced) return;
+
+        if (other.CompareTag("Foley"))
+        {
+            canSnap = true;
+            currentFoley = other.gameObject;
+        }
+    }
+
+    private void OnTriggerExit(Collider other)
+    {
+        if (isPlaced) return;
+
+        if (other.CompareTag("Foley"))
+        {
+            canSnap = false;
+            currentFoley = null;
+        }
+    }
+
+    public void TrySnap()
+    {
+        if (!canSnap || isPlaced || currentFoley == null) return;
+
+        UnityEngine.XR.Interaction.Toolkit.Interactables.XRGrabInteractable grab = currentFoley.GetComponent<UnityEngine.XR.Interaction.Toolkit.Interactables.XRGrabInteractable>();
+        Rigidbody rb = currentFoley.GetComponent<Rigidbody>();
+
+        currentFoley.transform.position = snapPoint.position;
+        currentFoley.transform.rotation = snapPoint.rotation;
+
+        if (rb != null)
+        {
+            rb.linearVelocity = Vector3.zero;
+            rb.angularVelocity = Vector3.zero;
+            rb.isKinematic = true;
+        }
+
+        if (grab != null)
+        {
+            grab.enabled = false;
+        }
+
+        isPlaced = true;
+    }
+}

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e05510092648c4cc381de354ec60e5df
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19716
+  packageName: Measuring tools
+  packageVersion: 1.0
+  assetPath: Assets/Measuring Tools/Prefabs/forensic.prefab
+  uploadId: 8814

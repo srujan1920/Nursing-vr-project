@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2d03d5e4fe54fd844b585de305653f05
+labels:
+- Surgery
+timeCreated: 1448820797
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37581
+  packageName: Surgical Instruments
+  packageVersion: 1.1
+  assetPath: Assets/Surgical_instruments/Prefabs/Surgical_hook.prefab
+  uploadId: 199108

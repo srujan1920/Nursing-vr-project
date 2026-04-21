@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b6878703de721a142a1ae1e17db9b3d2
+labels:
+- Surgery
+timeCreated: 1448820789
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37581
+  packageName: Surgical Instruments
+  packageVersion: 1.1
+  assetPath: Assets/Surgical_instruments/Prefabs/Grasping_forceps.prefab
+  uploadId: 199108

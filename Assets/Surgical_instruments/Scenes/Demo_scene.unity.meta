@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 88c528168ad1e9e4785268db80461fb7
+timeCreated: 1432326637
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37581
+  packageName: Surgical Instruments
+  packageVersion: 1.1
+  assetPath: Assets/Surgical_instruments/Scenes/Demo_scene.unity
+  uploadId: 199108

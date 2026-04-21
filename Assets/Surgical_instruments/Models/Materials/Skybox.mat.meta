@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2edad3fd5b9b496449e8235bfc30725d
+timeCreated: 1448791572
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37581
+  packageName: Surgical Instruments
+  packageVersion: 1.1
+  assetPath: Assets/Surgical_instruments/Models/Materials/Skybox.mat
+  uploadId: 199108

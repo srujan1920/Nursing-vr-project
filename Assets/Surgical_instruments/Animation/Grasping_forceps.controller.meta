@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e3d39f9f0f99ef046a7bf34c94fb70b8
+timeCreated: 1504288762
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37581
+  packageName: Surgical Instruments
+  packageVersion: 1.1
+  assetPath: Assets/Surgical_instruments/Animation/Grasping_forceps.controller
+  uploadId: 199108

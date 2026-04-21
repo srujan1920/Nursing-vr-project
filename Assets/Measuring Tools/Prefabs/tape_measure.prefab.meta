@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: be78104880c464974b552fb226085ed8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19716
+  packageName: Measuring tools
+  packageVersion: 1.0
+  assetPath: Assets/Measuring Tools/Prefabs/tape_measure.prefab
+  uploadId: 8814

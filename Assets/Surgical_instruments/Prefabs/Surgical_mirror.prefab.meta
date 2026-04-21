@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 900758dc729b0bf40aa5ac52d16bd524
+labels:
+- Surgery
+timeCreated: 1448820798
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37581
+  packageName: Surgical Instruments
+  packageVersion: 1.1
+  assetPath: Assets/Surgical_instruments/Prefabs/Surgical_mirror.prefab
+  uploadId: 199108

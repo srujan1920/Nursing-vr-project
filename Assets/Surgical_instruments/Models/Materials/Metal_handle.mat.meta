@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c744fb6d0d033d04ba202c11fb33d140
+timeCreated: 1432325443
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37581
+  packageName: Surgical Instruments
+  packageVersion: 1.1
+  assetPath: Assets/Surgical_instruments/Models/Materials/Metal_handle.mat
+  uploadId: 199108

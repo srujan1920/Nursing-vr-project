@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 2ede1ee35ee7b034d8c7c3003bc62b99
+labels:
+- Patient
+- Character
+- Hospital
+- Char
+- Man
+- Amublance
+- FirstAid
+- RedCross
+- Doctor
+- Nurse
+- surgery
+- surgeon
+- clinic
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20058
+  packageName: Hospital Patient Character
+  packageVersion: 1.1
+  assetPath: Assets/PATIENT_CHARACTER/Patient/Patient_Rigged.prefab
+  uploadId: 73244

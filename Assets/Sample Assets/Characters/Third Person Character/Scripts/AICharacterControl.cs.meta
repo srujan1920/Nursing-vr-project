@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 8c5335f0882fe4d478883cc8c58ce906
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20058
+  packageName: Hospital Patient Character
+  packageVersion: 1.1
+  assetPath: Assets/Sample Assets/Characters/Third Person Character/Scripts/AICharacterControl.cs
+  uploadId: 73244

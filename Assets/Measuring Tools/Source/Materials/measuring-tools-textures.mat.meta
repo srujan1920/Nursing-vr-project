@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e3cd744f35d394345a7ff8f51beff87d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19716
+  packageName: Measuring tools
+  packageVersion: 1.0
+  assetPath: Assets/Measuring Tools/Source/Materials/measuring-tools-textures.mat
+  uploadId: 8814

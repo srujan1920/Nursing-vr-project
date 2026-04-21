@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3edee51ff2296471caec996c097e1467
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19716
+  packageName: Measuring tools
+  packageVersion: 1.0
+  assetPath: Assets/Measuring Tools/Prefabs/bureau.prefab
+  uploadId: 8814

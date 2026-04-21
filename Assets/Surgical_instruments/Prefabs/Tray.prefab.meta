@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a45fac718c2529443abb2c7465a52ea9
+labels:
+- Surgery
+timeCreated: 1448820805
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37581
+  packageName: Surgical Instruments
+  packageVersion: 1.1
+  assetPath: Assets/Surgical_instruments/Prefabs/Tray.prefab
+  uploadId: 199108

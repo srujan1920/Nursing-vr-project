@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 0fa50b1dceab8104f833c2640e8b68ec
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20058
+  packageName: Hospital Patient Character
+  packageVersion: 1.1
+  assetPath: Assets/PATIENT_CHARACTER/Patient/Materials/patient_diff_blue.mat
+  uploadId: 73244
